@@ -4,3 +4,4 @@ iso/
 *.box
 virtualfloppy.vfd
 .gems/*
+Gemfile.lock
